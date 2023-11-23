@@ -1,0 +1,19 @@
+.marquee {
+  width: 100%;
+}
+
+.marquee-content {
+  display: inline-block;
+  animation: marquee 8s linear infinite;
+  padding-left: 5%;
+  color: var(--marquee);
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}

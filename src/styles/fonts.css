@@ -1,0 +1,92 @@
+@font-face {
+  font-family: 'adventpro-small';
+  src: url('../assets/adventpro-extralight.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'adventpro-medium';
+  src: url('../assets/adventpro-medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'adventpro-semibold';
+  src: url('../assets/adventpro-semibold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'capsuula';
+  src: url('../assets/Capsuula.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'blazium';
+  src: url('../assets/blazium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'boisu-fill';
+  src: url('../assets/Boisu-Fill.otf') format('truetype');
+}
+@font-face {
+  font-family: 'boisu-stroke';
+  src: url('../assets/Boisu-Stroke.otf') format('truetype');
+}
+@font-face {
+  font-family: 'bpdots1';
+  src: url('../assets/BPdotsCondensed.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'bpdots2';
+  src: url('../assets/BPdotsCondensedDiamond.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'hhenum';
+  src: url('../assets/Hhenum.otf') format('truetype');
+}
+@font-face {
+  font-family: 'iawriter-reg';
+  src: url('../assets/iAWriterDuospace-Regular.otf') format('truetype');
+}
+@font-face {
+  font-family: 'iawriter-it';
+  src: url('../assets/iAWriterDuospace-RegularItalic.otf') format('truetype');
+}
+@font-face {
+  font-family: 'immortal';
+  src: url('../assets/immortal.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'notcourier-bold';
+  src: url('../assets/NotCourierSans-Bold.otf') format('truetype');
+}
+@font-face {
+  font-family: 'notcourier';
+  src: url('../assets/NotCourierSans.otf') format('truetype');
+}
+@font-face {
+  font-family: 'impactLabel-rev';
+  src: url('../assets/Impact_Label_Reversed.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'impactLabel';
+  src: url('../assets/Impact_Label.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'bonveno';
+  src: url('../assets/BonvenoCF-Light.otf') format('truetype');
+}
+@font-face {
+  font-family: 'calabrese';
+  src: url('../assets/C123456789-Regular.otf') format('truetype');
+}
+@font-face {
+  font-family: 'mluvka';
+  src: url('../assets/Mluvka-Regular.otf') format('truetype');
+}
+@font-face {
+  font-family: 'poiret-reg';
+  src: url('../assets/PoiretOne-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'snippet';
+  src: url('../assets/Snippet.otf') format('truetype');
+}
+@font-face {
+  font-family: 'voltaire';
+  src: url('../assets/Voltaire-Regular.otf') format('truetype');
+}

@@ -1,0 +1,30 @@
+:root {
+  --body_background: #f1eeee;
+  --body_color: #0f08df;
+  /* --body_color: #ff3300; */
+  --bg-blur: #f1eeee3b;
+  /* --bg-blur: #0f08df2e;
+  --bg-blur: #ff33005e; */
+  --marquee: #ff3300;
+  --background_image: url('/horse.png');
+  --cursor: url('../assets/MouseXs.png') 16 16, auto;
+  --profil_img: url('/profil.jpeg');
+  --profil_img2: url('/PortraitAvar.png');
+  --calabrese: url('/Screenshot from 2023-09-03 17-59-01.png');
+  --sassyCrypto: url('/Screenshot from 2023-09-03 18-22-17.png');
+}
+
+[data-theme='dark'] {
+  --body_background: #ff3300;
+  --body_background: #0f08df;
+  --body_color: #ffffff;
+  /* --body_color: #ff3300; */
+  --marquee: #f1eeee;
+  --bg-blur: #0f08df5a;
+  /* --bg-blur: #ff3300bb; */
+  --bg-blur: #0f08df2e;
+  /* --bg-blur: #f1eeeec0; */
+  --background_image: url('/horse-white.png');
+  --cursor: url('../assets/MouseWhitexs.png') 16 16, auto;
+  --profil_img: url('/profil.jpeg');
+}
