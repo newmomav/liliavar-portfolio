@@ -1,7 +1,8 @@
-# My Portfolio Website
+## My Portfolio Website
 
 ### Just a simple Website
-Welcome to my simple, hopefully visually appealing portfolio website. I started coding a year ago, and this site is a showcase of my journey and skills.
+Welcome to my simple, hopefully visually appealing portfolio website. I started coding just one year ago, and this site is a showcase of my journey and skills.
 As you'll notice, it's still a work in progress. As I continue to explore and grow in my journey, I'll be adding more projects.  I love creating designs that are both easy to use and nice to look at.
 
+![React](https://img.shields.io/badge/React-16.13.1-61DAFB)
 
